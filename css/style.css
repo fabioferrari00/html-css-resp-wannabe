@@ -140,6 +140,13 @@ img {
         flex-direction: column;
     }
 
-
+    .lessons .col,
+    .steps .col,
+    .why-us .col-right,
+    .why-us .col-left,
+    .card {
+        width: 100%;
+        margin-bottom: 60px;
+    }
 
 }
